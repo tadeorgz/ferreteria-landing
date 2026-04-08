@@ -17,7 +17,7 @@ const navLinks = [
 ]
 
 const INITIAL_VISIBLE_PRODUCTS = 8
-const LOAD_MORE_STEP = 8
+const LOAD_MORE_STEP = 4
 
 function App() {
   const [search, setSearch] = useState('')
@@ -83,6 +83,7 @@ function App() {
           ctaHref={ctaHref}
           ctaLabel={siteConfig.ctaLabel}
           tagline={siteConfig.tagline}
+          backgroundImage={siteConfig.heroBackgroundImage}
         />
 
         <CategoryFilter

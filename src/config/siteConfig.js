@@ -5,6 +5,8 @@ const publicMapEmbedUrl =
     import.meta.env.VITE_PUBLIC_MAP_EMBED_URL
 
 export const siteConfig = {
+    heroBackgroundImage:
+        'jelleke-vanooteghem-MohB4LCIPyM-unsplash.jpg',
     companyName: 'Ferreteria Valkiria',
     tagline: 'Todo para construir, reparar y mejorar tu hogar',
     heroTitle: 'Tu ferreteria de confianza para proyectos que duran',
