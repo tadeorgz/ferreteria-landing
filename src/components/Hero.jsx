@@ -52,7 +52,7 @@ function Hero({ title, description, ctaHref, ctaLabel, tagline, backgroundImage 
               {tagline}
             </div>
 
-            <h1 className="text-balance text-5xl font-black leading-[0.96] tracking-tight text-white sm:text-6xl md:text-7xl lg:text-[5.75rem]">
+            <h1 className="text-balance text-4xl font-black leading-[0.96] tracking-tight text-white sm:text-6xl md:text-7xl lg:text-[5.75rem]">
               {mainWords && <span>{mainWords} </span>}
               <span
                 className="bg-gradient-to-r from-[var(--accent-color)] via-amber-300 to-white bg-clip-text text-transparent"
