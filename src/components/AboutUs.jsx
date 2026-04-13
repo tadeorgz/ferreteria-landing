@@ -48,7 +48,7 @@ function AboutUs() {
               {
                 icon: Heart,
                 title: 'Nacimos de una necesidad real',
-                text: 'Hace más de 8 años, nuestro fundador buscaba herramientas de calidad con asesoramiento real — no solo vendedores que señalan estantes. Así nació Ferreteria Valkiria: con la convicción de que cada cliente merece ser escuchado.',
+                text: 'Hace más de 8 años, nuestro fundador buscaba herramientas de calidad con asesoramiento real — no solo vendedores que señalan estantes. Así nació la Ferreteria: con la convicción de que cada cliente merece ser escuchado.',
               },
               {
                 icon: Users,

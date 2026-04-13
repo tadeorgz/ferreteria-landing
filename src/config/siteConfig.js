@@ -7,7 +7,7 @@ const publicMapEmbedUrl =
 export const siteConfig = {
     heroBackgroundImage:
         'jelleke-vanooteghem-MohB4LCIPyM-unsplash.jpg',
-    companyName: 'Ferreteria Valkiria',
+    companyName: 'Nombre de la Ferreteria ',
     tagline: 'Todo para construir, reparar y mejorar tu hogar',
     heroTitle: 'Tu ferreteria de confianza para proyectos que duran',
     heroDescription:
@@ -15,7 +15,7 @@ export const siteConfig = {
     whatsappNumber: publicWhatsAppNumber,
     defaultWhatsAppMessage: publicDefaultMessage,
     ctaLabel: 'Hablar por WhatsApp',
-    address: 'Av. Dr. Enrique Pouey y Baltasar Brum, 15900 Las Piedras, Departamento de Canelones',
+    address: '15900 Las Piedras, Departamento de Canelones',
     mapEmbedUrl: publicMapEmbedUrl,
     colors: {
         brand: '#2563eb',
@@ -27,11 +27,11 @@ export const siteConfig = {
     socialLinks: [
         {
             name: 'Instagram',
-            url: 'https://www.instagram.com/ferreteria_valkiria/',
+            url: 'https://www.instagram.com/taddeo.15/',
         },
         {
             name: 'Facebook',
-            url: 'https://www.facebook.com/ferreteriavalkiria/',
+            url: 'https://www.facebook.com/taddeo.15/',
         }
         // ,
         // {
